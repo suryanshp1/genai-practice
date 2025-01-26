@@ -1,0 +1,9 @@
+pandas
+textblob
+emoji
+scikit-learn
+smart_open
+sentence-transformers
+langchain
+langchain-community
+transformers
